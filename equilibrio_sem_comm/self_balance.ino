@@ -1,3 +1,7 @@
+/*
+ Control de balance of the robot, without communication. No bluetooth or serial input.
+  */
+
 #include <MsTimer2.h>        //internal timer 2
 #include "PinChangeInt.h"    //this library can make all pins of arduino REV4 as external interrupt
 #include <MPU6050.h>      //MPU6050 library 
