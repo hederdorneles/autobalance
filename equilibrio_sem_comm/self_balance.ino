@@ -1,5 +1,5 @@
 /*
- Control de balance of the robot, without communication. No bluetooth or serial input.
+ Control the balance of the robot, without communication. No bluetooth or serial input.
   */
 
 #include <MsTimer2.h>        //internal timer 2
